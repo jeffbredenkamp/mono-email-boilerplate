@@ -1,1 +1,1 @@
-# simple-email-boilerplate
+# mono-email-boilerplate
